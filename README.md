@@ -3,9 +3,10 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: João Vítor Rodrigues da Silva
+- Matricula: 905416
 
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela do Projeto - Currículo](tela_curriculo.png)
